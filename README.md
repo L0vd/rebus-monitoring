@@ -13,7 +13,7 @@ Advantages  of using our free service:
 
 # One line installation:
 ```
-. <(wget -qO- https://raw.githubusercontent.com/L0vdStaking/rebus-monitoring/main/rebus-monitoring-install.sh)
+. <(wget -qO- https://raw.githubusercontent.com/L0vd/rebus-monitoring/main/rebus-monitoring-install.sh)
 ```
 
 # OR Manual installation of telegraf and monitoring script
@@ -48,7 +48,7 @@ Status can be not ok with default Telegraf's config. Next steps will fix it.
 
 Clone this project repo and copy variable script template
 ```
-git clone https://github.com/L0vdStaking/rebus-monitoring.git
+git clone https://github.com/L0vd/rebus-monitoring.git
 cd rebus-monitoring
 nano variables.sh
 ```
