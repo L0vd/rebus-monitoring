@@ -71,7 +71,7 @@ echo -e '\e[32mCloning github repo\e[39m'
 echo ''
 
 cd $HOME
-git clone https://github.com/L0vdStaking/rebus-monitoring.git >/dev/null 2>&1
+git clone https://github.com/L0vd/rebus-monitoring.git >/dev/null 2>&1
 cd rebus-monitoring
 
 COS_BIN=rebusd
